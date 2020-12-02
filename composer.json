@@ -1,5 +1,5 @@
 {
-    "name": "nhkey/yii2-activerecord-history",
+    "name": "kllakk/yii2-activerecord-history",
     "description": "Storage history of changes to ActiveRecord",
     "keywords": ["yii2", "history", "activerecord"],
     "type": "yii2-extension",
